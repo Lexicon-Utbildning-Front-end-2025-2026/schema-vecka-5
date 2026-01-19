@@ -6,20 +6,6 @@ Intro till next.js/react med grunderna från installation av Next.js till reacts
 
 ---
 
-## 📅 Måndag
-Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
-
-### Mål för dagen
-* Förstår grundstrukturen i ett Next.js App router projekt, dvs filer (pages, layout, tsx, route), mappar och sånt
-* Kunna installera och köra projektet
-* Förstå vad komponenter är i react
-* Grundläggande routing i Next.js
-* Kort om tailwind vs css modules
-
-### E-learning
-* Varning om gammal version på något sätt här .... (Det räcker om ni se del 1-4) https://app.pluralsight.com/ilx/video-courses/nextjs-13-fundamentals/course-overview 
-* Frivilligt - För er som är helt nya med Tailwind https://app.pluralsight.com/library/courses/tailwind-css-foundations/table-of-contents
-
 #### Extra material för hela kursen i next.js
 Allt här är bara extra och sånt vi kommer gå igenom senare i kursen. 
 Det är om ni vill köra lite snabbare takt eller se hur någon annan förklarar vissa bitar. 
@@ -46,6 +32,22 @@ Frivilligt
 frivilliga än så länge
 * finns lite olika övningar här ev. https://app.pluralsight.com/paths/skills/nextjs typ CODE LAB Guided: Foundations of Next.js 14 och CODE LAB Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application
 * om man vill köra next.js dashboard (innehåller dock en del komplext) https://nextjs.org/learn/dashboard-app
+
+---
+
+## 📅 Måndag
+Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
+
+### Mål för dagen
+* Förstår grundstrukturen i ett Next.js App router projekt, dvs filer (pages, layout, tsx, route), mappar och sånt
+* Kunna installera och köra projektet
+* Förstå vad komponenter är i react
+* Grundläggande routing i Next.js
+* Kort om tailwind vs css modules
+
+### E-learning
+* Varning om gammal version på något sätt här .... (Det räcker om ni se del 1-4) https://app.pluralsight.com/ilx/video-courses/nextjs-13-fundamentals/course-overview 
+* Frivilligt - För er som är helt nya med Tailwind https://app.pluralsight.com/library/courses/tailwind-css-foundations/table-of-contents
 
 ---
 
