@@ -17,12 +17,13 @@ Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
 * Kort om tailwind vs css modules
 
 ### E-learning
-* Varning om gammal version på något sätt här .... Se del 1-4 https://app.pluralsight.com/ilx/video-courses/nextjs-13-fundamentals/course-overview 
+* Varning om gammal version på något sätt här .... (Det räcker om ni se del 1-4) https://app.pluralsight.com/ilx/video-courses/nextjs-13-fundamentals/course-overview 
 * Frivilligt - För er som är helt nya med Tailwind https://app.pluralsight.com/library/courses/tailwind-css-foundations/table-of-contents
 
 #### Extra material för hela kursen i next.js
-Vet inte om det ens ska var är eller ej? Vad tycker du?
-Allt här är bara extra och sånt vi kommer gå igenom senare i kursen. Det är om ni vill köra lite snabbare takt eller se hur någon annan förklarar vissa bitar. Obs - En del av det de visar kommer vi troligen inte ta upp alls under kursen som prisma t ex. 
+Allt här är bara extra och sånt vi kommer gå igenom senare i kursen. 
+Det är om ni vill köra lite snabbare takt eller se hur någon annan förklarar vissa bitar. 
+Obs - En del av det de visar kommer vi troligen inte ta upp alls under kursen som prisma t ex. 
 * https://www.youtube.com/watch?v=PqxHnMfyCUY
 * https://www.youtube.com/watch?v=KAQCHfu_3jw
 
