@@ -17,22 +17,31 @@ Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
 * Kort om tailwind vs css modules
 
 ### E-learning
-* Varning om gammal version på något sätt här .... https://app.pluralsight.com/ilx/video-courses/nextjs-13-fundamentals/course-overview 
-* https://app.pluralsight.com/library/courses/tailwind-css-foundations/table-of-contents
+* Varning om gammal version på något sätt här .... Se del 1-4 https://app.pluralsight.com/ilx/video-courses/nextjs-13-fundamentals/course-overview 
+* Frivilligt - För er som är helt nya med Tailwind https://app.pluralsight.com/library/courses/tailwind-css-foundations/table-of-contents
 
-#### Extra material
+#### Extra material för hela kursen i next.js
+Vet inte om det ens ska var är eller ej? Vad tycker du?
 Allt här är bara extra och sånt vi kommer gå igenom senare i kursen. Det är om ni vill köra lite snabbare takt eller se hur någon annan förklarar vissa bitar. Obs - En del av det de visar kommer vi troligen inte ta upp alls under kursen som prisma t ex. 
 * https://www.youtube.com/watch?v=PqxHnMfyCUY
 * https://www.youtube.com/watch?v=KAQCHfu_3jw
 
 ### Läsning
-* react docs - https://react.dev/
-* Viktigast koncepten i react - https://react.dev/learn
-* Historik/bakgrund react/next.js - https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs
-* Väldigt viktig info! (här kanske vi tar och delar upp per dag kanske?) https://nextjs.org/docs/app/getting-started/installation
+* Läs fram till och med "Displaying Data" - https://react.dev/learn
+* https://nextjs.org/docs/app/getting-started/installation
+* https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-page
+* https://nextjs.org/docs/app/getting-started/images
+  
+* Läs det ni orkar och vill här - https://nextjs.org/docs/app/getting-started/project-structure
+* Om ni vill använda CSS Modules istället för Tailwind - https://nextjs.org/docs/app/getting-started/css
 
+Frivilligt
+* Extra om man är nyfiken react docs - https://react.dev/
+* Frivilligt - Historik/bakgrund react/next.js - https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs
 
 ### Övningar
+* Skapa ett projekt och en grundläggande struktur med huvudmeny och några länkar till andra sidor/routes.
+
 frivilliga än så länge
 * finns lite olika övningar här ev. https://app.pluralsight.com/paths/skills/nextjs typ CODE LAB Guided: Foundations of Next.js 14 och CODE LAB Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application
 * om man vill köra next.js dashboard (innehåller dock en del komplext) https://nextjs.org/learn/dashboard-app
@@ -49,10 +58,10 @@ Vi bygger en Hero-komponent för vår app.
 * Ev children/React.ReactNode
 
 ### Läsning
-
+* Läs "Conditional Rendering" - https://react.dev/learn
 
 ### Övningar
-
+Skapa er egen Hero i appen.
 
 ---
 
@@ -65,10 +74,10 @@ Vi hämtar data från json och bygger en grid med kort från denna och props.
 * Parameter destructuring i komponenter
 
 ### Läsning
-
+* Läs "Rendering lists" - https://react.dev/learn
 
 ### Övningar
-
+Skapa komponenter för att rendera ut en grid med saker och deras detaljer
 
 ---
 
@@ -81,8 +90,10 @@ Vi bygger sidor för varje enskilt kort med dynamic routes och params
 * Async i komponenter
 
 ### Läsning
+https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-dynamic-segment
 
 ### Övningar
+Skapa dynamisk route och en sida med detaljer för korten. 
 
 ---
 
