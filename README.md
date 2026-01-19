@@ -70,18 +70,21 @@ Skapa komponenter för att rendera ut en grid med saker och deras detaljer
 ---
 
 ## 📅 Torsdag
-Vi bygger sidor för varje enskilt kort med dynamic routes och params
+Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapar en not found-sida
 
 ### Mål för dagen
 * Förstå vad dynamic routes är och hur de fungerar
 * Kunna använda params i komponenter
 * Async i komponenter
+* Använda notFound()
 
 ### Läsning
 https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-dynamic-segment
+https://nextjs.org/docs/app/api-reference/functions/not-found
+https://nextjs.org/docs/app/api-reference/file-conventions/not-found
 
 ### Övningar
-Skapa dynamisk route och en sida med detaljer för korten. 
+Skapa dynamisk route och en sida med detaljer för korten samt en 404-sida.
 
 ---
 
