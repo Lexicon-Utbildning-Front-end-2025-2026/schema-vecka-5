@@ -17,21 +17,19 @@ Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
 * Kort om tailwind vs css modules
 
 ### E-learning
-* En äldre version av Nextjs används här, men borde inte ställa till några större problem. (Det räcker om ni se del 1-4) https://app.pluralsight.com/ilx/video-courses/nextjs-13-fundamentals/course-overview 
-* Frivilligt - För er som är helt nya med Tailwind https://app.pluralsight.com/library/courses/tailwind-css-foundations/table-of-contents
+* Se del 1-4 - https://app.pluralsight.com/ilx/video-courses/nextjs-13-fundamentals/course-overview (En äldre version av Nextjs används, så det är lite skillnader mot vad vi går igenom på föreläsningarna).
+* Tailwind (Frivilligt) - https://app.pluralsight.com/library/courses/tailwind-css-foundations/table-of-contents
 
 ### Läsning
 * Läs fram till och med "Displaying Data" - https://react.dev/learn
-* https://nextjs.org/docs/app/getting-started/installation
-* https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-page
-* https://nextjs.org/docs/app/getting-started/images
-  
-* Läs det ni orkar och vill här - https://nextjs.org/docs/app/getting-started/project-structure
-* Om ni vill använda CSS Modules istället för Tailwind - https://nextjs.org/docs/app/getting-started/css
+* Dokumentation om Next.js installation - https://nextjs.org/docs/app/getting-started/installation
+* Docs om första stegen med page.tsx och layout.tsx - https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-page
 
 ### Frivilligt
 * Extra om man är nyfiken react docs - https://react.dev/
-* Frivilligt - Historik/bakgrund react/next.js - https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs
+* Historik/bakgrund react/next.js - https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs
+* Struktur på Next.js projekt - https://nextjs.org/docs/app/getting-started/project-structure
+* Om ni vill använda CSS Modules istället för Tailwind - https://nextjs.org/docs/app/getting-started/css
 
 
 ---
@@ -47,6 +45,7 @@ Vi bygger en Hero-komponent för vår app.
 
 ### Läsning
 * Läs "Conditional Rendering" - https://react.dev/learn
+* Docs om inbyggda komponenten Image - https://nextjs.org/docs/app/getting-started/images
 
 ### Övningar
 Skapa er egen Hero i appen.
