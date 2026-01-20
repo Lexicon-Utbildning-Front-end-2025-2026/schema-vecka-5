@@ -31,6 +31,9 @@ Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
 * Struktur på Next.js projekt - https://nextjs.org/docs/app/getting-started/project-structure
 * Om ni vill använda CSS Modules istället för Tailwind - https://nextjs.org/docs/app/getting-started/css
 
+### Övningar
+* Skapa ett projekt och en grundläggande struktur med huvudmeny och några länkar till andra sidor/routes.
+
 ---
 
 ## 📅 Tisdag
@@ -104,16 +107,15 @@ Fördjupa förståelsen genom att granska och diskutera kod.
 
 ---
 
-#### Extra material för hela kursen i next.js
+## Extra material för hela kursen i next.js
 Allt här är bara extra och sånt vi kommer gå igenom senare i kursen. 
 Det är om ni vill köra lite snabbare takt eller se hur någon annan förklarar vissa bitar. 
 Obs - En del av det de visar kommer vi troligen inte ta upp alls under kursen som prisma t ex. 
+
+### e-learning
 * https://www.youtube.com/watch?v=PqxHnMfyCUY
 * https://www.youtube.com/watch?v=KAQCHfu_3jw
-
+  
 ### Övningar
-* Skapa ett projekt och en grundläggande struktur med huvudmeny och några länkar till andra sidor/routes.
-
-frivilliga än så länge
-* finns lite olika övningar här ev. https://app.pluralsight.com/paths/skills/nextjs typ CODE LAB Guided: Foundations of Next.js 14 och CODE LAB Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application
-* om man vill köra next.js dashboard (innehåller dock en del komplext) https://nextjs.org/learn/dashboard-app
+* Finns lite olika övningar här om ni vill ha lite mer att testa. T ex CODE LAB Guided: Foundations of Next.js 14 och CODE LAB Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application - https://app.pluralsight.com/paths/skills/nextjs typ 
+* Next.js Dashboard-app - https://nextjs.org/learn/dashboard-app
