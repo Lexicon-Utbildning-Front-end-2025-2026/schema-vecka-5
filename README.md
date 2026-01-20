@@ -31,7 +31,6 @@ Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
 * Struktur på Next.js projekt - https://nextjs.org/docs/app/getting-started/project-structure
 * Om ni vill använda CSS Modules istället för Tailwind - https://nextjs.org/docs/app/getting-started/css
 
-
 ---
 
 ## 📅 Tisdag
@@ -78,9 +77,9 @@ Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapa
 * Använda notFound()
 
 ### Läsning
-https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-dynamic-segment
-https://nextjs.org/docs/app/api-reference/functions/not-found
-https://nextjs.org/docs/app/api-reference/file-conventions/not-found
+* Dynamiska routes - https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-dynamic-segment
+* notFound() - https://nextjs.org/docs/app/api-reference/functions/not-found
+* notFound.tsx - https://nextjs.org/docs/app/api-reference/file-conventions/not-found
 
 ### Övningar
 Skapa dynamisk route och en sida med detaljer för korten samt en 404-sida.
