@@ -23,7 +23,7 @@ Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
 ### Läsning
 * Läs fram till och med "Displaying Data" - https://react.dev/learn
 * Dokumentation om Next.js installation - https://nextjs.org/docs/app/getting-started/installation
-* Docs om första stegen med page.tsx och layout.tsx - https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-page
+* Läs delarna om page och layout - https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-page
 
 ### Frivilligt
 * Extra om man är nyfiken react docs - https://react.dev/
