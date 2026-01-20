@@ -21,7 +21,7 @@ Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
 * Tailwind (Frivilligt) - https://app.pluralsight.com/library/courses/tailwind-css-foundations/table-of-contents
 
 ### Läsning
-* Läs fram till och med "Displaying Data" - https://react.dev/learn
+* Viktigt - Läs fram till och med "Displaying Data" - https://react.dev/learn
 * Dokumentation om Next.js installation - https://nextjs.org/docs/app/getting-started/installation
 * Läs delarna om page och layout - https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-page
 
