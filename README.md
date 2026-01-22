@@ -95,15 +95,20 @@ Skapa dynamisk route och en sida med detaljer för korten samt en 404-sida.
 Fördjupa förståelsen genom att granska och diskutera kod. 
 
 **Frågor för Code Review:**
+Huvudfokus idag är att fundera lite på hur ni i gruppen har ett kodsamtal som är givande och bra för er i gruppen, samt kolla lite hur det gått under första veckan med next.js.
 
-* **I grupp:**
+#### I grupp:
+* Börja med att ha en diskussion hur ni vill lägga upp kodsnacket i nya gruppen. Vad vill ni fokusera på? Vad är viktigt för dig som person under dessa samtal? Hur lägger ni upp samtalet (när pratar ni och när räcker ni upp handen eller dylikt) och vad vill ni få ut av denna tid?
+* Kolla av hur ni vill göra under veckan. Vill ni köra några möten i gruppen på bestämda tider eller vill ni bara koda själva osv?
+* Diskutera hur det gått under veckan med er kod, vad har gått bra, vad har varit svårare? Dela med er av era erfarenheter och tankar om koden under veckan.
+* Annat ni vill prata om angående kodandet.
 
-* **Gemensamt:**
-
+#### Gemensamt:
+* I samlingen vill vi att ni berättar kort om några viktiga saker ni kommit överens om i gruppen om upplägget på gruppsamtalen.
+* Om det är något intressant ni vill dela med klassen om era tankar om kodandet (inget måste, bara om ni vill). 
 
 ### Övningar
-* **Code Review:** Gå igenom era projekt i basgrupperna.
-* **Final Polish:** Använd feedbacken för att göra de sista justeringarna på ert projekt innan helgen.
+* **Final Polish:** Använd feedback/inspiration från de andra i gruppen för förbättra din kod från veckan.
 
 ---
 
