@@ -10,7 +10,8 @@ Intro till next.js/react med grunderna från installation av Next.js till reacts
 Vi bygger början på en liten app. Med huvudmeny och en om-oss-sida.
 
 ### Mål för dagen
-* Förstår grundstrukturen i ett Next.js App router projekt, dvs filer (pages, layout, tsx, route), mappar och sånt
+* Förstå vad Next.js/React är och lite om ramverk vs bibliotek
+* Förstå grundstrukturen i ett Next.js App router projekt, dvs filer (pages, layout, tsx, route), mappar och sånt
 * Kunna installera och köra projektet
 * Förstå vad komponenter är i react
 * Grundläggande routing i Next.js
