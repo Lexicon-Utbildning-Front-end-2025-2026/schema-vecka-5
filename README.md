@@ -119,8 +119,9 @@ Det är om ni vill köra lite snabbare takt eller se hur någon annan förklarar
 Obs - En del av det de visar kommer vi troligen inte ta upp alls under kursen som prisma t ex. 
 
 ### e-learning
-* https://www.youtube.com/watch?v=PqxHnMfyCUY
-* https://www.youtube.com/watch?v=KAQCHfu_3jw
+* [Jan Marshal - Master Next.js 15 in Just 3 Hours (With Authentication)](https://www.youtube.com/watch?v=PqxHnMfyCUY)
+* [ByteGrad - Next.js Tutorial 2026 - Start Your Next.js Journey Here](https://www.youtube.com/watch?v=KAQCHfu_3jw)
+* [Jan Marshal - Next.js 16 Full Stack Course (8+ Hours) | Auth, Caching, Server Actions & Much More](https://www.youtube.com/watch?v=MZbwu3-uz3Y)
   
 ### Övningar
 * Finns lite olika övningar här om ni vill ha lite mer att testa. T ex CODE LAB Guided: Foundations of Next.js 14 och CODE LAB Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application - https://app.pluralsight.com/paths/skills/nextjs typ 
