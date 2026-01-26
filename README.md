@@ -51,7 +51,7 @@ Vi bygger en Hero-komponent för vår app.
 * Docs om inbyggda komponenten Image - https://nextjs.org/docs/app/getting-started/images
 
 ### Frivilligt
-* Om ni vill ha mer ingående info om Image komponenten - https://www.youtube.com/watch?v=L34FfNBwsfA
+* Om ni vill ha mer ingående info om Image komponenten - https://www.youtube.com/watch?v=ZKG8JBdgSos alt https://www.youtube.com/watch?v=L34FfNBwsfA (använder tredjeparts-bibliotek)
 
 ### Övningar
 Skapa er egen Hero i appen.
