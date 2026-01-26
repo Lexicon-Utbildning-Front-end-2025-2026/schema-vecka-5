@@ -50,6 +50,9 @@ Vi bygger en Hero-komponent för vår app.
 * Läs "Conditional Rendering" - https://react.dev/learn
 * Docs om inbyggda komponenten Image - https://nextjs.org/docs/app/getting-started/images
 
+### Frivilligt
+* Om ni vill ha mer ingående info om Image komponenten - https://www.youtube.com/watch?v=L34FfNBwsfA
+
 ### Övningar
 Skapa er egen Hero i appen.
 
