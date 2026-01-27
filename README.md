@@ -67,7 +67,7 @@ Vi hämtar data från json och bygger en grid med kort från denna och props.
 * Parameter destructuring i komponenter
 
 ### Läsning
-* Läs "Rendering lists" - https://react.dev/learn
+* Läs "Conditional rendering" - [https://react.dev/learn](https://react.dev/learn#conditional-rendering)
 
 ### Övningar
 Skapa komponenter för att rendera ut en grid med saker och deras detaljer
