@@ -68,6 +68,7 @@ Vi hämtar data från json och bygger en grid med kort från denna och props.
 
 ### Läsning
 * Läs "Conditional rendering" - [https://react.dev/learn](https://react.dev/learn#conditional-rendering)
+* https://react.dev/learn/passing-props-to-a-component
 
 ### Övningar
 Skapa komponenter för att rendera ut en grid med saker och deras detaljer
