@@ -47,7 +47,7 @@ Vi bygger en Hero-komponent för vår app.
 * Ev children/React.ReactNode
 
 ### Läsning
-* Läs "Conditional Rendering" - https://react.dev/learn
+* Läs "Rendering lists" - [https://react.dev/learn](https://react.dev/learn#rendering-lists)
 * Docs om inbyggda komponenten Image - https://nextjs.org/docs/app/getting-started/images samt https://nextjs.org/docs/app/api-reference/components/image
 
 ### Frivilligt
