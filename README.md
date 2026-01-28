@@ -86,6 +86,7 @@ Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapa
 
 ### Läsning
 * Dynamiska routes - https://nextjs.org/docs/app/getting-started/layouts-and-pages#creating-a-dynamic-segment
+* Params - https://nextjs.org/docs/app/api-reference/file-conventions/page#params-optional
 * notFound() - https://nextjs.org/docs/app/api-reference/functions/not-found
 * notFound.tsx - https://nextjs.org/docs/app/api-reference/file-conventions/not-found
 
