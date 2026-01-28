@@ -90,6 +90,9 @@ Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapa
 * notFound() - https://nextjs.org/docs/app/api-reference/functions/not-found
 * notFound.tsx - https://nextjs.org/docs/app/api-reference/file-conventions/not-found
 
+### Frivilligt
+* Helt klart överkurs för de flesta, men för er som vill fördjupa er i statistik genererade dynamiska routes - https://nextjs.org/docs/app/getting-started/linking-and-navigating#dynamic-segments-without-generatestaticparams
+
 ### Övningar
 Skapa dynamisk route och en sida med detaljer för korten samt en 404-sida.
 
